@@ -1,5 +1,368 @@
 [
     {
+        "nama": "Universitas Gadjah Mada",
+        "alamat": "Bulaksumur  Kec. Depok 55281, Prop. D.I. Yogyakarta",
+        "telepon": [
+            "0274-6492599"
+        ],
+        "email": [
+            "setr@ugm.ac.id"
+        ],
+        "website": [
+            "www.ugm.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Indonesia",
+        "alamat": "Jalan Salemba Raya 4  Kota Jakarta Pusat 10430, Prop. D.K.I. Jakarta",
+        "telepon": [
+            "021-7270020"
+        ],
+        "email": [
+            "humas-ui@ui.ac.id"
+        ],
+        "website": [
+            "www.ui.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Sumatera Utara",
+        "alamat": "Jalan Dr T Mansur No 9 Padang Bulan Kota Medan 20155, Prop. Sumatera Utara",
+        "telepon": [
+            "061-8214033"
+        ],
+        "email": [],
+        "website": [
+            "www.usu.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Airlangga",
+        "alamat": "Kampus C Mulyorejo  Kec. Mulyorejo 60115, Prop. Jawa Timur",
+        "telepon": [
+            "031-5914042"
+        ],
+        "email": [
+            "rektor@unair.ac.id"
+        ],
+        "website": [
+            "www.unair.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Hasanuddin",
+        "alamat": "Jl Perintis Kemerdekaan Km 10 Tamalanrea Kota Makassar 90245, Prop. Sulawesi Selatan",
+        "telepon": [
+            "0411-586200"
+        ],
+        "email": [
+            "vicerector1@unhas.ac.id"
+        ],
+        "website": [
+            "www.unhas.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Andalas",
+        "alamat": "Kampus Universitas Andalas Limau Manis Kec. Pauh 25163, Prop. Sumatera Barat",
+        "telepon": [
+            "0751-71181"
+        ],
+        "email": [
+            "rektor@unand.ac.id"
+        ],
+        "website": [
+            "www.unand.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Padjadjaran",
+        "alamat": "Jalan Raya Bandung Sumedang KM 21 Jatinangor Kab. Sumedang 45363, Prop. Jawa Barat",
+        "telepon": [
+            "022-84288888"
+        ],
+        "email": [
+            "humas@unpad.ac.id"
+        ],
+        "website": [
+            "www.unpad.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Diponegoro",
+        "alamat": "Jl Prof H Soedarto, SH Kampus Tembalang Kec. Tembalang 50275, Prop. Jawa Tengah",
+        "telepon": [],
+        "email": [
+            "rektor@undip.ac.id"
+        ],
+        "website": [
+            "www.undip.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Sriwijaya",
+        "alamat": "Jl Raya Palembang Prabumulih Km. 32  Inderalaya Ogan Komering Ilir Kab. Ogan Ilir 30662, Prop. Sumatera Selatan",
+        "telepon": [
+            "0711-580169"
+        ],
+        "email": [
+            "bapsi@unsri.ac.id"
+        ],
+        "website": [
+            "www.unsri.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Lambung Mangkurat",
+        "alamat": "Jalan Brigjen H Hasan Basri  Kec. Banjarmasin Utara 70123, Prop. Kalimantan Selatan",
+        "telepon": [
+            "0511306694"
+        ],
+        "email": [
+            "humas@unlam.ac.id"
+        ],
+        "website": [
+            "http://www.ulm.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Syiah Kuala",
+        "alamat": "Universitas Syiah Kuala \nJln. Teuku Nyak Arief\nDarussalam, Banda Aceh, Aceh, 2 Kec. Syiah Kuala 23111, Prop. Aceh",
+        "telepon": [],
+        "email": [
+            "rektor@unsyiah.ac.id"
+        ],
+        "website": [
+            "www.unsyiah.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Sam Ratulangi",
+        "alamat": "Kampus Unsrat Bahu  Kec. Malalayang 95115, Prop. Sulawesi Utara",
+        "telepon": [
+            "0431-863886"
+        ],
+        "email": [
+            "rektorat@unsrat.ac.id"
+        ],
+        "website": [
+            "www.unsrat.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Udayana",
+        "alamat": "Jl.Kampus Bukit UNUD Jimbaran ,Badung-Bali Kab. Badung 80361, Prop. Bali",
+        "telepon": [
+            "0361-701954"
+        ],
+        "email": [
+            "info@unud.ac.id"
+        ],
+        "website": [
+            "www.unud.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Nusa Cendana",
+        "alamat": "Jalan Adisucipto Penfui  Kota Kupang 85001, Prop. Nusa Tenggara Timur",
+        "telepon": [],
+        "email": [
+            "puskomundana@yahoo.com"
+        ],
+        "website": []
+    },
+    {
+        "nama": "Universitas Mulawarman",
+        "alamat": "Jalan Kuaro Gunung Kelua  Kec. Samarinda Ulu 75119, Prop. Kalimantan Timur",
+        "telepon": [
+            "0541741118"
+        ],
+        "email": [
+            "rektorat@unmul.ac.id"
+        ],
+        "website": [
+            "www.unmul.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Mataram",
+        "alamat": "Jalan Majapahit No 62  Kec. Selaperang 83125, Prop. Nusa Tenggara Barat",
+        "telepon": [
+            "0370-633007"
+        ],
+        "email": [
+            "rektor@unram.ac.id"
+        ],
+        "website": [
+            "www.unram.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Riau",
+        "alamat": "Kampus Bina Widya Simpang Baru Kota Pekanbaru 28293, Prop. Riau",
+        "telepon": [
+            "0761-63266"
+        ],
+        "email": [
+            "unri@ac.id"
+        ],
+        "website": [
+            "www.unri.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Cenderawasih",
+        "alamat": "Kampus Uncen Waena Jl Camp Wolker Kota Jayapura 99358, Prop. Papua",
+        "telepon": [
+            "0967-572108"
+        ],
+        "email": [
+            "humas@uncen.ac.id"
+        ],
+        "website": [
+            "www.uncen.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Brawijaya",
+        "alamat": "Jalan Veteran  Kec. Lowokwaru 65145, Prop. Jawa Timur",
+        "telepon": [
+            "0341-551611"
+        ],
+        "email": [
+            "rektorat@ub.ac.id"
+        ],
+        "website": [
+            "www.ub.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Jambi",
+        "alamat": "Jl. Raya Jambi Muara Bulian Km 15 Kec. Jambi Luar Kota 36361, Prop. Jambi",
+        "telepon": [
+            "0741583377"
+        ],
+        "email": [
+            "unja@unja.ac.id"
+        ],
+        "website": [
+            "www.unja.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Pattimura",
+        "alamat": "Jalan Ir M Putuhena, Kampus Poka, AMBON  Kec. Teluk Ambon 97233, Prop. Maluku",
+        "telepon": [],
+        "email": [
+            "rektor@unpatti.ac.id"
+        ],
+        "website": [
+            "www.unpatti.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Tanjungpura",
+        "alamat": "Jalan Jenderal Ahmad Yani  Kec. Pontianak Tenggara 78124, Prop. Kalimantan Barat",
+        "telepon": [
+            "0561-736033"
+        ],
+        "email": [],
+        "website": [
+            "www.untan.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Jenderal Soedirman",
+        "alamat": "Jl Prof Dr HR Boenyamin 708  Kec. Purwokerto Utara 53122, Prop. Jawa Tengah",
+        "telepon": [
+            "0281-635292"
+        ],
+        "email": [
+            "kusja@unsoed.ac.id"
+        ],
+        "website": [
+            "www.unsoed.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Palangka Raya",
+        "alamat": "Kampus Unpar Tunjung Nyaho Jl. Yos Sudarso Kota Palangka Raya 27111, Prop. Kalimantan Tengah",
+        "telepon": [
+            "0536-3227111"
+        ],
+        "email": [
+            "info@upr.ac.id"
+        ],
+        "website": [
+            "upr.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Jember",
+        "alamat": "Jalan Kalimantan No 37 Kampus Tegalboto Kec. Sumbersari 68121, Prop. Jawa Timur",
+        "telepon": [
+            "0331330224"
+        ],
+        "email": [
+            "humas@unej.ac.id"
+        ],
+        "website": [
+            "www.unej.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Lampung",
+        "alamat": "Jl Sumantri Brojonegoro No 1 Gedong Meneng Kec. Rajabasa 35145, Prop. Lampung",
+        "telepon": [
+            "0721701609"
+        ],
+        "email": [
+            "humas@kpa.unila.ac.id"
+        ],
+        "website": [
+            "www.unila.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Sebelas Maret",
+        "alamat": "Jalan Ir Sutami 36-A Kentingan Kec. Jebres 57126, Prop. Jawa Tengah",
+        "telepon": [
+            "0271"
+        ],
+        "email": [
+            " admin-uns@uns.ac.id"
+        ],
+        "website": [
+            "uns.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Tadulako",
+        "alamat": "Kampus Bumi Tadulako Tondo  Kota Palu 94118, Prop. Sulawesi Tengah",
+        "telepon": [
+            "0451-422611"
+        ],
+        "email": [
+            "untad@untad.ac.id"
+        ],
+        "website": [
+            "www.untad.ac.id"
+        ]
+    },
+    {
+        "nama": "Universitas Halu Oleo",
+        "alamat": "Kampus Bumi Tridharma Anduonohu, Jalan H.E.A. Mokodompit, Kodya Kendari, Sulawes Kota Kendari 93232, Prop. Sulawesi Tenggara",
+        "telepon": [
+            "0401-3194163"
+        ],
+        "email": [
+            "info@uho.ac.id"
+        ],
+        "website": [
+            "www.uho.ac.id"
+        ]
+    },
+    {
         "nama": "Universitas Bengkulu",
         "alamat": "Jalan WR Supratman Kandang Limun  Kec. Muara Bangkahulu 38371, Prop. Bengkulu",
         "telepon": [

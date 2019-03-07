@@ -3,7 +3,7 @@ import requests
 import re
 import json
 
-page = 1
+page = 0
 
 class Database(object):
     def __init__(self):
