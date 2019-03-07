@@ -32,7 +32,9 @@ def scrape(page=page):
 
     return contents
 
-while True:
+# Use only 177 pages because more than those pages, the data contain universities abroad (other countries)
+
+while page<178:
     print(page)
     try:
         contents = scrape(page)
